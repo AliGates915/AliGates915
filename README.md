@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ali G@te$</h1>
-<h3 align="center">I AM Java Web Developer from Pakistan</h3>
+<h3 align="center">I am Java Web Developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aligates915&label=Profile%20views&color=0e75b6&style=flat" alt="aligates915" /> </p>
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Information+Technology+Student;Aspiring+Developer;Interest+in+Cyber+Security;Interest+in+Java+Web+Developer;Always+learning+new+things&center=true&width=600&height=60"></a>
   
