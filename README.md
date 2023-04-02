@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ali G@te$</h1>
 <h3 align="center">I AM Java Web Developer from Pakistan</h3>
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+&+Information+Technology+Student;Aspiring+Developer;Interest+in+Cyber+Security;Interest+in+Java+Web+Developer;Always+learning+new+things&center=true&width=600&height=60"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Information+Technology+Student;Aspiring+Developer;Interest+in+Cyber+Security;Interest+in+Java+Web+Developer;Always+learning+new+things&center=true&width=600&height=60"></a>
   
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
