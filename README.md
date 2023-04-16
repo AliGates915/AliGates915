@@ -9,7 +9,8 @@
 
 - 21 years old
 - Information Technology (IT)
-- Unversity of Punjab, Okara
+- Unversity of Punjab, Lahore 
+- Lives in Okara Punjab, Pakistan.
 - 2021-2023
 - I’m currently preparing for Projects at Industrial Level.
 - Currently working on my **DSA IN JAVA**
