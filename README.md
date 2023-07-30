@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ali G@te$</h1>
-<h3 align="center">I am Java Web Developer from Pakistan</h3>
+<h3 align="center">I am Full Stack Web Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligates915&label=Profile%20views&color=0e75b6&style=flat" alt="aligates915" /> </p>
 
@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **MYSQL , java MonoDB, JavaFX, Swing**
+- 🌱 I’m currently learning **MYSQL, JavaScript,Express Framework, MonoDB,TypeScript, Node.JS**
 
 - 👯 I’m looking to collaborate on **https://github.com/rrkjr04**
 
