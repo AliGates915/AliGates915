@@ -7,7 +7,7 @@
   
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 21 years old
+- 20 years old
 - Information Technology (IT)
 - Unversity of Punjab, Lahore 
 - Lives in Okara Punjab, Pakistan.
