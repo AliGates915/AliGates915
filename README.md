@@ -3,28 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligates915&label=Profile%20views&color=0e75b6&style=flat" alt="aligates915" /> </p>
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Information+Technology+Student;Aspiring+Developer;Interest+in+Cyber+Security;Interest+in+Java+Web+Developer;Always+learning+new+things&center=true&width=600&height=60"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Information+Technology+Student;Aspiring+Developer;Interest+in+Cyber+Security;Interest+in+Web+Developer;Always+learning+new+things&center=true&width=600&height=60"></a>
   
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 20 years old
+- 22 years old
 - Information Technology (IT)
 - Unversity of Punjab, Lahore 
 - Lives in Okara Punjab, Pakistan.
 - 2021-2023
 - I’m currently preparing for Projects at Industrial Level.
-- Currently working on **DSA USING C++**
+- Currently working on **DSA USING JavaScript**
 
 
-
-- 🌱 I’m currently learning **MYSQL, JavaScript,Express Framework, MonoDB,TypeScript, Node.JS**
+- 🌱 I’m currently learning  **JavaScript,Express Framework, MonoDB,TypeScript, Node.JS**
 
 - 👯 I’m looking to collaborate on **https://github.com/rrkjr04**
 
 - 🤝 I’m looking for help with **https://github.com/rrkjr04**
 
 - 📫 How to reach me **hacktech877@gmail.com**
-- 🌱 CodeChef: https://www.codechef.com/users/aligates915
+- 🌱 LeetCode: **(https://leetcode.com/AliGates915/)**
 
 - ⚡ Fun fact **I think I am Funny**
 
