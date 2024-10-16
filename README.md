@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ali G@te$</h1>
-<h3 align="center">I am Full Stack Web Developer </h3>
+<h3 align="center">I am Full Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligates915&label=Profile%20views&color=0e75b6&style=flat" alt="aligates915" /> </p>
 
@@ -9,14 +9,12 @@
 
 - 22 years old
 - Information Technology (IT)
-- Unversity of Punjab, Lahore 
-- Lives in Okara Punjab, Pakistan.
-- 2021-2023
-- I’m currently working on Frontend Engineer preparing for Projects at Industrial Level.
+- University of Punjab, Lahore 
+- Lives in Lahore Punjab, Pakistan.
+- I’m working as a Full-stack Engineer preparing for Projects at the Industrial Level.
 - Currently working on **DSA USING JavaScript**
 
-
-- 🌱 I’m currently learning  **JavaScript,Express Framework, MonoDB,TypeScript, Node.JS**
+- 🌱 I’m currently learning  **JavaScript, Express Framework, MongoDB, TypeScript, Node.JS**
 
 - 👯 I’m looking to collaborate on **https://github.com/rrkjr04**
 
