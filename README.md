@@ -12,9 +12,10 @@
 - University of Punjab, Lahore 
 - Lives in Lahore Punjab, Pakistan.
 - I’m working as a Full-stack Engineer preparing for Projects at the Industrial Level.
-- Currently working on **DSA USING JavaScript**
+- Currently working on **JavaScript, Express Framework, MongoDB, TypeScript, Node.JS**
 
-- 🌱 I’m currently learning  **JavaScript, Express Framework, MongoDB, TypeScript, Node.JS**
+- 🌱 I’m currently learning  **Data Science
+- **
 
 - 👯 I’m looking to collaborate on **https://github.com/rrkjr04**
 
