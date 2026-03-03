@@ -7,11 +7,11 @@
   
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 22 years old
+- 24 years old
 - Information Technology (IT)
 - University of Punjab, Lahore 
 - Lives in Lahore Punjab, Pakistan.
-- I’m working as a Full-stack Engineer preparing for Projects at the Industrial Level.
+- I’m working as a Team Leand & Full-stack Engineer preparing for Projects at the Industrial Level.
 - Currently working on **JavaScript, Express Framework, MongoDB, TypeScript, Node.JS**
 
 - 🌱 I’m currently learning  **Data Science
